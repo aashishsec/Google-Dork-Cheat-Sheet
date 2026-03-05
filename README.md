@@ -881,9 +881,3 @@ Creating custom Google search engines for specific dorking purposes.
 - Follow Google search updates
 - Participate in security communities
 - Practice regularly with test environments
-
-#### Resource Maintenance
-- Update dork databases regularly
-- Maintain operator cheat sheets
-- Document successful techniques
-- Share knowledge with community
